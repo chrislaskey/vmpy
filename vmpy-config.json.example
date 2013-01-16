@@ -1,0 +1,3 @@
+{
+    "default_local_vm_storage": "/vm-storage/<vm-name>/"
+}
