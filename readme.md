@@ -30,7 +30,7 @@ The three actions of vm.py are:
 See ```vm.py <action> --help``` for specific information and commands for each
 action.
 
-**Note** this code is no longer developed. It was used in-house for a six month
+**Note:** this code is no longer developed. It was used in-house for a six month
 period with great success. I decided to migrate from pure command-line vm
 administration to GUI based with Proxmox for easier monitoring.
 
@@ -59,7 +59,7 @@ Future
 + Refactor code into smaller, single-puporse subclasses.
 + Reimplement output/logging with Python stdlib logging module
 
-LICENSE
+License
 ================================================================================
 This script is licensed under a 4 clause MIT license.
 See LICENSE file for the complete license.
